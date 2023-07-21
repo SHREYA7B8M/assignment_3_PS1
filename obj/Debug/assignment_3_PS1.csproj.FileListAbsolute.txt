@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Day_3\assignment_3_PS1\assignment_3_PS1\bin\Debug\assignment_3_PS1.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Day_3\assignment_3_PS1\assignment_3_PS1\bin\Debug\assignment_3_PS1.exe
+C:\Users\KIIT\Desktop\Git Exercise\Day_3\assignment_3_PS1\assignment_3_PS1\bin\Debug\assignment_3_PS1.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Day_3\assignment_3_PS1\assignment_3_PS1\obj\Debug\assignment_3_PS1.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_3\assignment_3_PS1\assignment_3_PS1\obj\Debug\assignment_3_PS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_3\assignment_3_PS1\assignment_3_PS1\obj\Debug\assignment_3_PS1.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_3\assignment_3_PS1\assignment_3_PS1\obj\Debug\assignment_3_PS1.exe
+C:\Users\KIIT\Desktop\Git Exercise\Day_3\assignment_3_PS1\assignment_3_PS1\obj\Debug\assignment_3_PS1.pdb
